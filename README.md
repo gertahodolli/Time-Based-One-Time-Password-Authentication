@@ -39,12 +39,17 @@ Ensure the `common.Config` class is set up correctly:
 1. Clone or download the project repository.
 2. Open the project in your preferred IDE.
 
+
+
+### Examples of Execution
+
+![Screenshot 2024-05-22 233738](https://github.com/gertahodolli/Time-Based-One-Time-Password-Authentication/assets/147100017/e4e3f3bb-1f69-4b55-ad10-04aac3fbfd4f)
+
 ### Compiling the Java Files
 Navigate to the project directory and compile:
 ```bash
 javac server/*.java common/*.java
 javac client/*.java common/*.java
 
-## Examples of Execution
 
-![Screenshot 2024-05-22 233738](https://github.com/gertahodolli/Time-Based-One-Time-Password-Authentication/assets/147100017/e4e3f3bb-1f69-4b55-ad10-04aac3fbfd4f)
+
