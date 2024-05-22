@@ -1,0 +1,6 @@
+Sent to server - Username: gerta, TOTP: 401113
+Received from server - Authentication successful for user: gerta
+Sent to server - Username: genti, TOTP: 832048
+Received from server - Authentication successful for user: genti
+Sent to server - Username: filan fisteku, TOTP: 603947
+Received from server - Authentication successful for user: filan fisteku
