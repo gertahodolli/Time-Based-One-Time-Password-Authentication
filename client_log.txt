@@ -1,6 +1,3 @@
-Sent to server - Username: gerta, TOTP: 401113
-Received from server - Authentication successful for user: gerta
-Sent to server - Username: genti, TOTP: 832048
-Received from server - Authentication successful for user: genti
-Sent to server - Username: filan fisteku, TOTP: 603947
-Received from server - Authentication successful for user: filan fisteku
+Sent to server - Username: Fero, TOTP: Qysh po fol kur nuk din sen
+Sent to server - Username: Ghetto Geasy, TOTP: 512351
+Sent to server - Username: Gent Zhushi, TOTP: 819442

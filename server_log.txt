@@ -1,31 +1,3 @@
-Server started and awaiting authentication requests...
-TOTP sent to the client: 578659
-Server started and awaiting authentication requests...
-TOTP sent to the client: 920820
-Server started and awaiting authentication requests...
-TOTP sent to the client: 365639
-Received authentication request for user: gerta
-TOTP provided by user: 365639
-Authentication successful for user: gerta
-Server started and awaiting authentication requests...
-TOTP sent to the client: 704803
-Server started and awaiting authentication requests...
-TOTP sent to the client: 704803
-Server started and awaiting authentication requests...
-TOTP sent to the client: 420021
-Received authentication request for user: gerta
-TOTP provided by user: 420021
-Authentication successful for user: gerta
-Server started and awaiting authentication requests...
-TOTP sent to the client: 815963
-Received authentication request for user: gerta
-TOTP provided by user: 815963
-Authentication successful for user: gerta
-User: gerta - Authentication successful.
-User: gerta - Authentication successful.
-Sent to server - Username: gerta, TOTP: 962723
-Sent to server - Username: gent, TOTP: 682084
-Sent to server - Username: genti, TOTP: 040891
-User: genti - Authentication successful.
-User: genti - Authentication successful.
-User: filan fisteku - Authentication successful.
+User: Fero - Authentication failed.
+User: Ghetto Geasy - Authentication successful.
+User: Gent Zhushi - Authentication successful.

@@ -34,5 +34,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="totp-1.0" level="project" />
+    <orderEntry type="library" name="commons-codec-1.17.0-sources" level="project" />
+    <orderEntry type="library" name="commons-codec-1.17.0-javadoc" level="project" />
   </component>
 </module>
